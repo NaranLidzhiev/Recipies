@@ -294,11 +294,11 @@ textarea {
   line-height: 2.6;
 }
 
-.box:hover { flex: 1 1 50%; }
-.box:hover > img {
-  width: 100%;
-  height: 100%;
-}
+/*.box:hover { flex: 1 1 50%; }*/
+/*.box:hover > img {*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*}*/
 
 .bra{
   width: 300px;
